@@ -5,7 +5,7 @@ I care about tools that non-programmers can actually use: one window, clear butt
 
 🌐 **Website:** [marklromano.github.io](https://marklromano.github.io) &nbsp;·&nbsp;
 🛒 **Asset Store:** [Romano Assets](https://assetstore.unity.com/publishers/160196) &nbsp;·&nbsp;
-💬 **Discord:** _link coming_
+💬 **Discord:** [Romano Assets](https://discord.gg/AmpBDxRAKu)
 
 ---
 
