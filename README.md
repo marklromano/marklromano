@@ -31,7 +31,7 @@ scatter, dress and check a level from one window.
 | **All In One Save Kit** | Drop-in save system for Unity | In development |
 | **Interaction Kit** | Pick up, use and inspect objects in Unity | In development |
 | **All In One Game Settings & Menu Kit** | Ready-made title, main, settings, pause and loading screens for Unity games | In development |
-| **Runtime Building Kit** | Lets players build in-game in Unity games | Planned |
+| **All In One Runtime Building Kit** | Lets players build bases and place furniture in Unity games, with a few-minute setup for your own models | In development |
 | **Officehand** | AI office assistant for small commercial real estate offices. It drafts; a person approves. (Python, FastAPI) | In development |
 | **Small business websites** | Fast, hand-built sites for local businesses | Ongoing |
 
