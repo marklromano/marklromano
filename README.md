@@ -28,7 +28,7 @@ scatter, dress and check a level from one window.
 | Project | What it is | Status |
 |---|---|---|
 | **Pawnheads** | Co-op (1–4 players) physics comedy about storage-unit auctions, for PC / Steam | In development |
-| **All In One Save Kit** | Drop-in save system for Unity | In development |
+| **All In One Save Kit** | Save and restore player progress, world objects and settings in Unity, without code: slots, autosaves, a save menu, backups and recovery. [Product page](https://marklromano.github.io/save-kit/) · [Support](https://github.com/marklromano/RomanoAssetSupport) | In development, target: Asset Store submission this week |
 | **Interaction Kit** | Pick up, use and inspect objects in Unity | In development |
 | **All In One Game Settings & Menu Kit** | Ready-made title, main, settings, pause and loading screens for Unity games | In development |
 | **All In One Runtime Building Kit** | Lets players build bases and place furniture in Unity games, with a few-minute setup for your own models | In development |
