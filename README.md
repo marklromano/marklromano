@@ -20,8 +20,8 @@ scatter, dress and check a level from one window.
 - Scans packs of thousands of models without loading them all (catalogs store IDs and load on demand)
 - Incremental: re-running a tool touches only what changed, and hand edits survive a re-scan
 - Never modifies the buyer's packs or open scene; builds in a preview scene with one undo per action
-- Asset Store compliant: public APIs only, zero package dependencies, works with Domain Reload off,
-  no warnings on Unity 6 and 2022.3 LTS, EditMode test suite
+- Asset Store compliant: public APIs only, zero package dependencies, works with Domain Reload off
+- Version 1.0: 234 automated tests, no warnings on Unity 6000.0 LTS, 6000.3 and 6000.6, with Built-in, URP and HDRP
 
 ## What I'm building
 
